@@ -1,0 +1,18 @@
+{
+    "css.lint.argumentsInColorFunction": "warning",
+    "css.lint.boxModel": "warning",
+    "css.lint.compatibleVendorPrefixes": "warning",
+    "css.lint.duplicateProperties": "warning",
+    "css.lint.unknownVendorSpecificProperties": "warning",
+    "css.lint.zeroUnits": "warning",
+    "less.lint.compatibleVendorPrefixes": "warning",
+    "less.lint.duplicateProperties": "warning",
+    "less.lint.float": "warning",
+    "less.lint.hexColorLength": "warning",
+    "less.lint.idSelector": "warning",
+    "less.lint.ieHack": "warning",
+    "less.lint.important": "warning",
+    "less.lint.importStatement": "warning",
+    "less.lint.universalSelector": "warning",
+    "less.lint.unknownVendorSpecificProperties": "warning"
+}
